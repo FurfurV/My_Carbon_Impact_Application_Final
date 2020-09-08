@@ -8,6 +8,7 @@ I intend to use this to change my lifestyle slightly and be more environmentally
 
 ## The application uses 
 * MVC
+* Arraylist
 * Junit testing with a test suite
 * Javadoc
 * a button when pressed causes the application to use too much memory
